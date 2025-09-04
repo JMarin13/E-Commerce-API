@@ -1,0 +1,35 @@
+# Archivos de configuración sensibles
+**/appsettings.json
+**/appsettings.*.json
+
+# Secretos de usuario
+secrets.json
+*.user
+*.suo
+
+# Archivos de configuración de entorno
+.env
+.env.*
+
+# Archivos de configuración de Visual Studio
+.vscode/
+*.vs/
+*.vscode/
+
+# Archivos de compilación y binarios
+bin/
+obj/
+
+# Archivos de paquetes
+*.nupkg
+*.snupkg
+
+# Archivos de logs
+*.log
+
+# Archivos de base de datos local
+*.mdf
+*.ldf
+
+# Archivos de publicación
+publish/
