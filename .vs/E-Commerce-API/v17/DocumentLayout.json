@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\jmari\\Documents\\Johny-Marin\\Curso .Net Backend\\E-Commerce-API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CD4FA8B4-BCE6-42BA-AF95-63698D7BDB62}|E-Commerce-API\\E-Commerce-API.csproj|c:\\users\\jmari\\documents\\johny-marin\\curso .net backend\\e-commerce-api\\e-commerce-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD4FA8B4-BCE6-42BA-AF95-63698D7BDB62}|E-Commerce-API\\E-Commerce-API.csproj|solutionrelative:e-commerce-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD4FA8B4-BCE6-42BA-AF95-63698D7BDB62}|E-Commerce-API\\E-Commerce-API.csproj|c:\\users\\jmari\\documents\\johny-marin\\curso .net backend\\e-commerce-api\\e-commerce-api\\e-commerce-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CD4FA8B4-BCE6-42BA-AF95-63698D7BDB62}|E-Commerce-API\\E-Commerce-API.csproj|solutionrelative:e-commerce-api\\e-commerce-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD4FA8B4-BCE6-42BA-AF95-63698D7BDB62}|E-Commerce-API\\E-Commerce-API.csproj|c:\\users\\jmari\\documents\\johny-marin\\curso .net backend\\e-commerce-api\\e-commerce-api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD4FA8B4-BCE6-42BA-AF95-63698D7BDB62}|E-Commerce-API\\E-Commerce-API.csproj|solutionrelative:e-commerce-api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD4FA8B4-BCE6-42BA-AF95-63698D7BDB62}|E-Commerce-API\\E-Commerce-API.csproj|c:\\users\\jmari\\documents\\johny-marin\\curso .net backend\\e-commerce-api\\e-commerce-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CD4FA8B4-BCE6-42BA-AF95-63698D7BDB62}|E-Commerce-API\\E-Commerce-API.csproj|solutionrelative:e-commerce-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CD4FA8B4-BCE6-42BA-AF95-63698D7BDB62}|E-Commerce-API\\E-Commerce-API.csproj|c:\\users\\jmari\\documents\\johny-marin\\curso .net backend\\e-commerce-api\\e-commerce-api\\docker-compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,8 +54,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "E-Commerce-API",
+              "DocumentIndex": 1,
+              "Title": "E-Commerce-API.csproj",
               "DocumentMoniker": "C:\\Users\\jmari\\Documents\\Johny-Marin\\Curso .Net Backend\\E-Commerce-API\\E-Commerce-API\\E-Commerce-API.csproj",
               "RelativeDocumentMoniker": "E-Commerce-API\\E-Commerce-API.csproj",
               "ToolTip": "C:\\Users\\jmari\\Documents\\Johny-Marin\\Curso .Net Backend\\E-Commerce-API\\E-Commerce-API\\E-Commerce-API.csproj",
@@ -67,20 +67,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\jmari\\Documents\\Johny-Marin\\Curso .Net Backend\\E-Commerce-API\\E-Commerce-API\\appsettings.json",
               "RelativeDocumentMoniker": "E-Commerce-API\\appsettings.json",
               "ToolTip": "C:\\Users\\jmari\\Documents\\Johny-Marin\\Curso .Net Backend\\E-Commerce-API\\E-Commerce-API\\appsettings.json",
               "RelativeToolTip": "E-Commerce-API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-08-28T21:11:50.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\jmari\\Documents\\Johny-Marin\\Curso .Net Backend\\E-Commerce-API\\E-Commerce-API\\Models\\Category.cs",
               "RelativeDocumentMoniker": "E-Commerce-API\\Models\\Category.cs",
@@ -88,8 +88,7 @@
               "RelativeToolTip": "E-Commerce-API\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T21:07:10.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T21:07:10.051Z"
             },
             {
               "$type": "Document",
@@ -101,8 +100,7 @@
               "RelativeToolTip": "E-Commerce-API\\docker-compose.yaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-08-28T21:03:28.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T21:03:28.944Z"
             },
             {
               "$type": "Document",
@@ -114,8 +112,7 @@
               "RelativeToolTip": "E-Commerce-API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T20:28:32.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T20:28:32.63Z"
             }
           ]
         }
